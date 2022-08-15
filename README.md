@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratikg03
+- 👋 Hi, I’m @pratikgagare03
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning BE IT at DYPCOE Pune
 - 💞️ I’m looking to collaborate on ...
