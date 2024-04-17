@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pratikgagare03
+- 👋 Hi, I’m Pratik Gagare
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning BE IT at DYPCOE Pune
+- 🌱 I’m currently learning BE-IT at DYPCOE Pune
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pratikgagare302002@gmail.com
 
